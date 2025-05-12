@@ -9,5 +9,6 @@ This repo gives basic sorting techniques such as
 -recursive insertion sort
 
 
-
+1.Selection_sort compares each positon with the current positioned element and sorts the elements based on incresing index number
+2.bubble-sort
 ~Author Parthiv-06
