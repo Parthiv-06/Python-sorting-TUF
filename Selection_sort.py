@@ -6,7 +6,7 @@ def selection_sort(arr):
             if arr[j]<arr[mini]:
                 mini=j
         arr[i],arr[mini]=arr[mini],arr[i]
-        print(arr)
+        # print(arr)
     return arr
 arr=[5,17,13,20,6,12]
 print(selection_sort(arr))
